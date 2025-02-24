@@ -20,12 +20,14 @@
 
 ## 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bremsstrahlung-57&show_icons=true&theme=dark)
+---
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bremsstrahlung-57&theme=dark)
 
 ## 📫 Reach Me
 - 🔗 [Website](https://bremsstrahlung.vercel.app/)
 - 🔗 [GitHub](https://github.com/bremsstrahlung-57)
 - 🔗 [X/Twitter](https://x.com/barbarik____)
-- ✉️ Email: sagar292905@gmail.com // sagarsharma.ai@protonmail.com
-
+✉️ Email:  
+- Personal inquiries: sagar292905@gmail.com  
+- Work & collaborations: sagarsharma.ai@protonmail.com
 ---
