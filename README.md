@@ -26,6 +26,6 @@
 - 🔗 [Website](https://bremsstrahlung.vercel.app/)
 - 🔗 [GitHub](https://github.com/bremsstrahlung-57)
 - 🔗 [X/Twitter](https://x.com/barbarik____)
-- ✉️ Email: your-email@example.com
+- ✉️ Email: sagar292905@gmail.com // sagarsharma.ai@protonmail.com
 
 ---
