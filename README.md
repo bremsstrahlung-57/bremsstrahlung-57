@@ -27,7 +27,7 @@
 - 🔗 [Website](https://bremsstrahlung.vercel.app/)
 - 🔗 [GitHub](https://github.com/bremsstrahlung-57)
 - 🔗 [X/Twitter](https://x.com/barbarik____)
-✉️ Email:  
+- ✉️ Email:  
 - Personal inquiries: sagar292905@gmail.com  
 - Work & collaborations: sagarsharma.ai@protonmail.com
 ---
