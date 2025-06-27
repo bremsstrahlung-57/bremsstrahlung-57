@@ -3,7 +3,8 @@
 ```
 ai/ml · low-level · game dev · web dev
 
-just building cool stuff, breaking things, and figuring it all out.
-
-Curious. Analytical. Builder. Optimizer. Explorer
+I break what I just fixed.
+Build what I barely get.
+Bad at it. Obsessed anyway.
+Try stopping me.
 ```
