@@ -1,12 +1,17 @@
 # i am sagar sharma 😎🍷
 
-```
 ai/ml · low-level · game dev · web dev
 
-I break what I just fixed.
-Build what I barely get.
-Bad at it. Obsessed anyway.
-Curious? Always.
-Skilled? Not yet.
-Try stopping me.
-```
+---
+
+![Stats](https://github-readme-stats.vercel.app/api?username=bremsstrahlung-57&show_icons=true&theme=synthwave)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bremsstrahlung-57&layout=compact)
+
+---
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=bremsstrahlung-57&theme=synthwave)
+
+---
