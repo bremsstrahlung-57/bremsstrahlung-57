@@ -9,4 +9,3 @@
 ---
 ![GitHub Streak](https://streak-stats.demolab.com/?user=bremsstrahlung-57&theme=synthwave)
 ---
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bremsstrahlung)
