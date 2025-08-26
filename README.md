@@ -1,6 +1,8 @@
 <center>
 
-# Sagar Sharma 😎🍷
+# **ॐ**
+
+## Sagar Sharma 😎🍷
 
 > सागर शर्मा | சாகர் சர்மா | సాగర్ శర్మ | സാഗർ ശർമ്മ | সাগর শর্মা | ಸಾಗರ್ ಶರ್ಮಾ | サガール・シャルマ | 萨加尔·夏尔马
 
@@ -104,7 +106,6 @@
 
 ![Sagar’s GitHub stats](https://github-readme-stats.vercel.app/api?username=bremsstrahlung-57&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bremsstrahlung-57&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bremsstrahlung-57&theme=tokyonight)
 
 <center>
 
