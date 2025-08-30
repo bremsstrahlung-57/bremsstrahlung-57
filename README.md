@@ -16,7 +16,6 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
@@ -55,11 +54,10 @@
 ## 📂 Featured Projects
 > **_“तत्त्वमसि”_ — Thou art That.**
 
-- **sunny** → CLI tool to fetch live weather
-- **getrekt** → A lightweight web server written in C
+- **[sunny](https://github.com/bremsstrahlung-57/sunny)** → CLI tool to fetch live weather
+- **[getrekt](https://github.com/bremsstrahlung-57/getrekt)** → A lightweight web server written in C
 - **[Numpy for Noobs](https://github.com/your-username/numpy_for_noobs)** → Beginner-friendly NumPy guide
 - **[Lofi-Radio-Man](https://lofi-radio-man.vercel.app/)** → Relaxing Lofi player
-
 
 ## 📚 Currently 
 - Low-level networking & systems with C/Rust
