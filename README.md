@@ -45,12 +45,10 @@
 
 <!-- > **_“सर्वं खल्विदं ब्रह्म”_ — All this is Brahman.** -->
 
-## 🌍 Find me
+##  me
 [![X](https://img.shields.io/badge/Twitter-0A66C2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/barbarik____)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-sharma-20a467262/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github&logoColor=white)](https://bremsstrahlung.vercel.app/)  
 [![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](sagarsharma.ai@protonmail.com)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sagar292905@gmail.com)
 
 <!-- > **_“एकं सत् विप्राः बहुधा वदन्ति”_ — Truth is One, the wise call It by many names.** -->
 
