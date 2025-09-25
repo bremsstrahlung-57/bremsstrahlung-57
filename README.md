@@ -11,7 +11,7 @@
 > - Currently building tools, games, and weird experiments.  
 > - Trying to make/do something Great.
 
-> _“नेति नेति” (Neti Neti)_ — Not this, not this.
+> _“नेति नेति” (Neti Neti)_ — Not this, not that.
 
 <!-- > **_“सत्यं ज्ञानं अनन्तं ब्रह्म”_ — Brahman is truth, knowledge, and infinity.** -->
 
