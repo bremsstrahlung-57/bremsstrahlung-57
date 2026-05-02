@@ -1,9 +1,11 @@
-<div align="center">
+# Sagar Sharma
 
-## Sagar Sharma
+Second-year B.Tech student in AI & Data Science.
 
-</div>
+Working on [Lodestone](https://github.com/bremsstrahlung-57/lodestone) — a RAG system with hybrid search, reranking, and multi-LLM support.
+Interests: ML systems, low-level programming, and whatever I'm currently obsessed with.
 
-- I'm a second-year B.Tech student majoring in Artificial Intelligence & Data Science.
-- Working on AI, low-level systems, and game development.
-- Trying to make something Great.
+---
+
+[my website](https://bremsstrahlung.vercel.app/)
+[twitter/x](https://x.com/sagar0x5)
