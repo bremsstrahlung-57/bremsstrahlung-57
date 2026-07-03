@@ -19,4 +19,4 @@ b.tech ai & ds
 
 ---
 
-[my website](https://bremsstrahlung.vercel.app/) | [mail](sagarsharma.ai@protonmail.com)
+[my website](https://bremsstrahlung.vercel.app/) | sagarsharma.ai@protonmail.com
