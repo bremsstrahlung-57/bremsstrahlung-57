@@ -5,7 +5,7 @@ b.tech ai & ds
 
 **currently working on**
 - Daemon: a desktop ai companion built in Tauri, Rust. not another chatbot wrapper. a assitant that actually feel like a human or something like that.
-- [Confidence without Competence](https://github.com/bremsstrahlung-57/ptq-vs-qlora-calibration): researching on does finetuning and quantization pipeline (PTQ vs QoLora) affect the confidence of LLMs.
+- [Confidence without Competence](https://github.com/bremsstrahlung-57/ptq-vs-qlora-calibration): researching on does finetuning and quantization pipeline (PTQ vs QLoRa) affect the confidence of LLMs.
 
 **things i built**
 * [Lodestone](https://github.com/bremsstrahlung-57/lodestone): A local-first semantic search engine for your own documents.
