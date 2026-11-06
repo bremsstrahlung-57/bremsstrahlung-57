@@ -1,12 +1,8 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0d1117,100:30363d&section=header&text=Sagar%20Sharma&fontColor=c9d1d9&fontSize=38&fontAlignY=38&animation=fadeIn" width="100%" alt="header"/>
+# Sagar Sharma
 
 third-year b.tech, ai & data science  
 
-</div>
-
-<br/>
+---
 
 ## projects
 
@@ -21,14 +17,8 @@ third-year b.tech, ai & data science
 - [**numpy_for_noobs**](https://github.com/bremsstrahlung-57/numpy_for_noobs) — numpy, minus the gatekeeping
 - [**BM25 Search**](https://gossamer-socks-9d6.notion.site/BM25-Search-2ded40bd723980359352df996c6b903a) — notes on the ranking function everyone uses and nobody derives
 
-<br/>
-
-<div align="center">
+---
 
 [site](https://bremsstrahlung.vercel.app/) · [mail](mailto:sagarsharma.ai@protonmail.com) · [x](https://x.com/sagar0x5) · [linkedin](https://www.linkedin.com/in/sagar-sharma-20a467262/)
 
 <sub>bremsstrahlung: radiation emitted when something fast gets forced to slow down. relatable.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:30363d,100:0d1117&section=footer" width="100%" alt="footer"/>
-
-</div>
