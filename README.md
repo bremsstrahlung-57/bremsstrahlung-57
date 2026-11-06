@@ -2,8 +2,6 @@
 
 third-year b.tech, ai & data science  
 
----
-
 ## projects
 
 - [**Daemon**](https://github.com/bremsstrahlung-57/daemon) — desktop AI companion. Rust, Tauri
