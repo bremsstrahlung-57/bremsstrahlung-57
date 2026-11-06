@@ -1,17 +1,34 @@
-# Sagar Sharma
+<div align="center">
 
-third year, b.tech ai & ds  
-ai · systems · web  
-python · c++ · c · rust   
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0d1117,100:30363d&section=header&text=Sagar%20Sharma&fontColor=c9d1d9&fontSize=38&fontAlignY=38&animation=fadeIn" width="100%" alt="header"/>
 
----
+third-year b.tech, ai & data science  
 
-**projects**  
-[Daemon](https://github.com/bremsstrahlung-57/daemon), [Lodestone](https://github.com/bremsstrahlung-57/lodestone), [GETrekt](https://github.com/bremsstrahlung-57/getrekt), [music_playr](https://github.com/bremsstrahlung-57/music_playr), [Sunny](https://github.com/bremsstrahlung-57/sunny), [CNN compression](https://github.com/bremsstrahlung-57/resnet18-compression), [lofi_radio_man](https://lofi-radio-man.vercel.app/)
+</div>
 
-**research & notes**  
-[Confidence Without Competence](https://github.com/bremsstrahlung-57/ptq-vs-qlora-calibration)_(ongoing)_, [numpy_for_noobs](https://github.com/bremsstrahlung-57/numpy_for_noobs), [BM25 Search](https://gossamer-socks-9d6.notion.site/BM25-Search-2ded40bd723980359352df996c6b903a)
+<br/>
 
----
+## projects
+
+- [**Daemon**](https://github.com/bremsstrahlung-57/daemon) — desktop AI companion. Rust, Tauri
+- [**Lodestone**](https://github.com/bremsstrahlung-57/lodestone) — hybrid RAG retrieval, published on npm
+- [**CNN compression**](https://github.com/bremsstrahlung-57/resnet18-compression) — shrinking ResNet-18 without wrecking it
+- [**GETrekt**](https://github.com/bremsstrahlung-57/getrekt) · [**music_playr**](https://github.com/bremsstrahlung-57/music_playr) · [**Sunny**](https://github.com/bremsstrahlung-57/sunny) · [**lofi_radio_man**](https://lofi-radio-man.vercel.app/)
+
+## research & notes
+
+- [**Confidence Without Competence**](https://github.com/bremsstrahlung-57/ptq-vs-qlora-calibration) — PTQ vs QLoRA calibration. *ongoing*
+- [**numpy_for_noobs**](https://github.com/bremsstrahlung-57/numpy_for_noobs) — numpy, minus the gatekeeping
+- [**BM25 Search**](https://gossamer-socks-9d6.notion.site/BM25-Search-2ded40bd723980359352df996c6b903a) — notes on the ranking function everyone uses and nobody derives
+
+<br/>
+
+<div align="center">
 
 [site](https://bremsstrahlung.vercel.app/) · [mail](mailto:sagarsharma.ai@protonmail.com) · [x](https://x.com/sagar0x5) · [linkedin](https://www.linkedin.com/in/sagar-sharma-20a467262/)
+
+<sub>bremsstrahlung: radiation emitted when something fast gets forced to slow down. relatable.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:30363d,100:0d1117&section=footer" width="100%" alt="footer"/>
+
+</div>
